@@ -21,7 +21,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
 [//]: ![](https://github-readme-streak-stats.herokuapp.com/?user=Baoanh2004&theme=merko&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
