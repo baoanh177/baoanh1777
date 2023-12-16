@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Bao Anh...
-## 🌐Socials [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100088917412737) 
 
 ## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,3 +24,5 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
 [//]: ![](https://github-readme-streak-stats.herokuapp.com/?user=Baoanh2004&theme=merko&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🌐Socials [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100088917412737) 
