@@ -26,4 +26,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐Socials [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100088917412737) 
-[![Snake animation](assets/snake.svg)](https://github.com/Baoanh2004/Baoanh2004)
