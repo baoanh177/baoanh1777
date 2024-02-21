@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,redux,react,next,nodejs,express,sequelize,postgres,git,github)](https://skillicons.dev)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Baoanh2004&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=baoanh177&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
@@ -35,6 +35,6 @@
 ## 📊GitHub Stats :
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
 [//]: ![](https://github-readme-streak-stats.herokuapp.com/?user=Baoanh2004&theme=merko&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baoanh2004&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐Socials [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100088917412737) 
