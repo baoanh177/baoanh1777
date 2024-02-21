@@ -21,7 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,redux,react,next,nodejs,express,sequelize,postgres,postman,git,github)](https://skillicons.dev)
 
-[![](https://visitcount.itsvg.in/api?id=baoanh177&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=baoanh177&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
