@@ -32,8 +32,8 @@
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=merko&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=merko&hide_border=true) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐Socials [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100088917412737) 
