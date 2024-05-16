@@ -1,4 +1,4 @@
-<!-- # 👋 Hi there, I'm Bao Anh... -->
+# 👋 Hi there, I'm Bao Anh...
 <!-- # Code nhiều bug nhưng biết cách dấu 👌-->
 
 ## 💻Tech Stack
