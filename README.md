@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Bao Anh...
+<!-- # 👋 Hi there, I'm Bao Anh... -->
+<!-- # Code nhiều bug nhưng biết cách dấu -->
 
 ## 💻Tech Stack
 <!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
