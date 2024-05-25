@@ -19,8 +19,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,redux,react,next,nodejs,express,sequelize,postgres,postman,git,github)](#)
-<!-- ts,redis,linux -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,ts,redux,react,next,nodejs,express,sequelize,postgres,postman,git,github)](#)
+<!-- ,redis,linux -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=baoanh177&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
