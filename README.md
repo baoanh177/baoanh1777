@@ -9,5 +9,5 @@
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact' alt='Github stats' align='center' />
     <br/>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&theme=transparent&layout=compact' alt='Github stats' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime/?username=aleretamero&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6' alt='Github stats' align='center' />
 </div>
