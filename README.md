@@ -36,7 +36,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=merko&hide_border=true) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-#### 25/05/04 - Present
+#### 25/05/24 - Present
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&theme=transparent&layout=compact)](#)
 
 
