@@ -1,5 +1,5 @@
-<div align="center">
-  # 👋 Hi there, I'm Bao Anh...
+<h1 align="center">
+  👋 Hi there, I'm Bao Anh...
 </div>
 
 ## 💻Tech Stack
