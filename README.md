@@ -19,14 +19,12 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
 ### 📝 Programming Languages:
-
   [![](https://skillicons.dev/icons?i=javascript,ts)](#)
 <br/>
 <br/>
 
 ### 🖼️ Frameworks and Tools:
   [![](https://skillicons.dev/icons?i=sass,tailwind,redux,react,next,nodejs,express,postman,git,github)](#)
-
 <br/>
 <br/>
 
