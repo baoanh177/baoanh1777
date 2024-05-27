@@ -51,28 +51,21 @@
 <br />
 <br/> -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
+</p>
 
-<div style="display: flex; gap: 20px;">
-  <div>
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&range=all_time"/>
-  </p>
-  </div>
-<div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple"/>
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple"/>
-  </p>
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&range=all_time"/>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/iztoxyoxy">
