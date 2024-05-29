@@ -38,8 +38,7 @@
 
 ### 📚 Databases:
 
-[![](https://skillicons.dev/icons?i=mongo,sequelize,postgres,redis)](#)
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" />
+[![](https://skillicons.dev/icons?i=sequelize,postgres,redis)](#)
 <br/>
 <br/>
 
