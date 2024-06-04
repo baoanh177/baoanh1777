@@ -64,7 +64,7 @@
 
 <p align="center">
 <!--   25/05/2024 -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&range=all_time"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&range=all_time&custom_title=25/05/2024%20-%20Present"/>
 </p>
 
 <p align="center">
