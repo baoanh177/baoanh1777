@@ -59,12 +59,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed"/>
 </p>
 
 <p align="center">
 <!--   25/05/2024 -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&range=all_time&custom_title=25/05/2024%20-%20Present"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed&range=all_time&custom_title=25/05/2024%20-%20Present"/>
 </p>
 
 <p align="center">
