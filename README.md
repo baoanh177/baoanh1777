@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed"/>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=tokyonight&hide_border=true&exclude_days=Sun)"/>
 </p>
 
 <p align="center">
