@@ -51,15 +51,15 @@
 <br/> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=2f80ed&text_color=fff&icon_color=2f80ed&layout=compact&border_color=2f80ed"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&icon_color=2f80ed&border_color=2f80ed" alt="piyush-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed"/>
 </p>
 
 <p align="center">
