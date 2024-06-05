@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=tokyonight&hide_border=true&exclude_days=Sun"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
