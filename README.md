@@ -18,7 +18,7 @@
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
-### 🛠️ Programming Languages:
+### 🛠️ Skills:
 <table width=100%>
   <tr width=100%>
     <td align=center width="100">
