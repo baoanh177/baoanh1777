@@ -3,8 +3,8 @@
 <!-- <img src="my_banner.png" alt="count"/> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=baoanh177&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
-<img src="https://wakatime.com/badge/user/a78a30d8-e481-4ee3-884f-8a6d3abba700.svg" /> -->
-</p>
+<img src="https://wakatime.com/badge/user/a78a30d8-e481-4ee3-884f-8a6d3abba700.svg" /> 
+</p>-->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -18,37 +18,80 @@
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
-<table>
-  <tr align="center">
-    <td>
+### 📝 Programming Languages:
+<br>
+<table width=100%>
+  <tr width=100%>
+    <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=html" alt="" />
     </td>
-    <td>
+    <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=css" alt="" />
     </td>
-    <td>
+    <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="" />
     </td>
-    <td>
+    <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=sass" alt="" />
     </td>
-    <td>
+    <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=ts" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=python" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=redux" alt="" />
+    </td>
+  </tr>
+  <tr width=100%>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=react" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=express" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=sequelize" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=redis" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=postman" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=github" alt="" />
     </td>
   </tr>
 </table>
 
-### 📝 Programming Languages:
+<!-- ### 📝 Programming Languages:
 
 [![](https://skillicons.dev/icons?i=javascript,ts,python)](#)
 <br/>
-<br/>
+<br/> -->
 
-### 🖼️ Frameworks and Tools:
+<!-- ### 🖼️ Frameworks and Tools:
 
 [![](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,redux,react,next,nodejs,express,sequelize,postman,git,github)](#)
 <br/>
-<br/>
+<br/> -->
 
 <!-- ### 🛠️  DevOps Tools:
 
@@ -56,11 +99,11 @@
 <br/>
 <br/> -->
 
-### 📚 Databases:
+<!-- ### 📚 Databases:
 
 [![](https://skillicons.dev/icons?i=postgres,redis)](#)
 <br/>
-<br/>
+<br/> -->
 
 <!-- ### 💻 IDE:
 
@@ -76,18 +119,18 @@
 
 <table border=0 rules=none frame=void>
   <tr>
-    <th>
+    <td align=center>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D"/>
-    </th>
-    <th>
+    </td>
+    <td align=center>
         <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&icon_color=2f80ed&border_color=2f80ed" alt="piyush-stats" />
-    </th>
+    </td>
   </tr>
   <tr>
-    <th colspan="2">
+    <td align=center colspan="2">
         <!--   25/05/2024 -->
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed&range=all_time&custom_title=25/05/2024%20-%20Present"/>
-    </th>
+    </td>
   </tr>
 </table>
 
