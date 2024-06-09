@@ -18,7 +18,7 @@
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
-### 📝 Programming Languages:
+### 🛠️ Programming Languages:
 <br>
 <table width=100%>
   <tr width=100%>
@@ -116,7 +116,8 @@
   <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=2f80ed&text_color=fff&icon_color=2f80ed&layout=compact&border_color=2f80ed"/>
   </p> -->
-
+### 📝 Stats:
+<br>
 <table border=0 rules=none frame=void>
   <tr>
     <td align=center>
