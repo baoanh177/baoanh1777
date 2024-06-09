@@ -70,11 +70,11 @@
 <br />
 <br/> -->
 
-  <p align="center">
+  <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=2f80ed&text_color=fff&icon_color=2f80ed&layout=compact&border_color=2f80ed"/>
-  </p>
+  </p> -->
 
-<table border=0 rules=none>
+<table border=0 rules=none frame=void>
   <tr>
     <th>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=midnight-purple&border_color=2f80ed&title_color=2f80ed](https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D"/>
