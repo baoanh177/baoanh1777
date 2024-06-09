@@ -43,18 +43,15 @@
       <img src="https://skillicons.dev/icons?i=ts" alt="" />
     </td>
     <td align=center width="100">
-      <img src="https://skillicons.dev/icons?i=python" alt="" />
-    </td>
-    <td align=center width="100">
-      <img src="https://skillicons.dev/icons?i=redux" alt="" />
-    </td>
-  </tr>
-  <tr width=100%>
-    <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=react" alt="" />
     </td>
     <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="" />
+    </td>
+  </tr>
+  <tr width=100%>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=redux" alt="" />
     </td>
     <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="" />
@@ -76,6 +73,9 @@
     </td>
     <td align=center width="100">
       <img src="https://skillicons.dev/icons?i=github" alt="" />
+    </td>
+    <td align=center width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="" />
     </td>
   </tr>
 </table>
