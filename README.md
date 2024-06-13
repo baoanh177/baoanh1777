@@ -115,7 +115,10 @@
   <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=2f80ed&text_color=fff&icon_color=2f80ed&layout=compact&border_color=2f80ed"/>
   </p> -->
-### 📝 Stats:
+<div align=center>
+  ### 📝 Stats: 
+  <img src="https://wakatime.com/badge/user/ed88f1d0-5c2c-48d4-9e3c-6fc619f952b1.svg" alt=""/>
+</div>
 <table border=0 rules=none frame=void>
   <tr>
     <td align=center>
