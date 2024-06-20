@@ -123,7 +123,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoanh177&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D"/>
     </td>
     <td align=center>
-        <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&icon_color=2f80ed&custom_title=" alt="piyush-stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&hide_border=true&icon_color=2f80ed&custom_title=" alt="piyush-stats" />
     </td>
   </tr>
   <tr>
