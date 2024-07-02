@@ -120,7 +120,7 @@
 <table border=0 rules=none frame=void>
   <tr>
     <td align=center>
-        [![GitHub Streak](https://streak-stats.demolab.com?user=baoanh177&theme=tokyonight&hide_border=true)](#)
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=baoanh177&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
     <td align=center>
         <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=radical&title_color=2f80ed&text_color=fff&hide_border=true&icon_color=2f80ed&custom_title=" alt="piyush-stats" />
