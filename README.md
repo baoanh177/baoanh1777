@@ -1,5 +1,5 @@
 
-[![Snake animation](assets/snake.svg)](https://github.com/baoanh177/baoanh177)
+[![Snake animation](assets/snake.svg)](https://github.com/duongnguyen321/duongnguyen321)
 
 
 <!-- <img src="piyush-final.gif" width=100%> -->
