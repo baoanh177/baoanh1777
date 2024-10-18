@@ -1,7 +1,3 @@
-
-[![Snake animation](assets/snake.svg)](https://github.com/duongnguyen321/duongnguyen321)
-
-
 <!-- <img src="piyush-final.gif" width=100%> -->
 
 <!-- <img src="my_banner.png" alt="count"/> -->
@@ -10,7 +6,7 @@
 <img src="https://wakatime.com/badge/user/a78a30d8-e481-4ee3-884f-8a6d3abba700.svg" /> 
 </p>-->
 
-<!-- <h1 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Bao+Anh...;Frontend+Developer...;ReactJS,+NextJS...&center=true&size=30">
   </a>
@@ -22,7 +18,7 @@
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
-<!-- ### 🛠️ Skills:
+### 🛠️ Skills:
 <table width=100%>
   <tr width=100%>
     <td align=center width="100">
@@ -119,7 +115,7 @@
   <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoanh177&show_icons=true&theme=midnight-purple&title_color=2f80ed&text_color=fff&icon_color=2f80ed&layout=compact&border_color=2f80ed"/>
   </p> -->
-  <!-- ### 📝 Stats: 
+  ### 📝 Stats: 
   <img src="https://wakatime.com/badge/user/ed88f1d0-5c2c-48d4-9e3c-6fc619f952b1.svg" alt=""/>
 <table border=0 rules=none frame=void>
   <tr>
@@ -135,7 +131,7 @@
         <!--   25/05/2024 -->
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baoanh177&layout=compact&theme=tokyonight&border_color=2f80ed&title_color=2f80ed&range=all_time"/>
     </td>
-  <!--</tr>
+  </tr>
 </table>
 
 <div>
